@@ -9,6 +9,9 @@ body {
 }
 
 img {
+  margin-top: 10px;
+    margin-left: 20px;
+  height: 15%;
   width: 15%;
 }
 
