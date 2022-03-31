@@ -1,7 +1,14 @@
 /* style.css
 */
 
+#intro{
+  text-align: center;
+}
 
+#contact me {
+  text-align: center;
+
+}
 
 
 body {
@@ -11,7 +18,7 @@ body {
 img {
   padding-left: 50px;
   margin-top: 10px;
-  margin-left: 50px;
+  margin-left: 150px;
   height: 15%;
   width: 15%;
 }
@@ -32,5 +39,5 @@ h2 {
 
 p, li {
   text-align: center;
-  font-family:Arial;
+  font-family: Arial;
 }
