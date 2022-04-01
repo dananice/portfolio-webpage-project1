@@ -47,6 +47,10 @@ h2 {
   color: #0033cc;
 }
 
+h3 {
+  text-align: center;
+}
+
 p, li {
   text-align: center;
   list-style-position: inside;
