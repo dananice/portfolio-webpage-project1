@@ -4,10 +4,12 @@
 /* styling to center infromation on the page */
 #intro{
   text-align: center;
+  font-size: 20px;
 }
 
 #contact me {
   text-align: center;
+  fopnt-size: 20px;
 
 }
 
@@ -17,6 +19,11 @@
 }
 
 ul {
+  text-align: center;
+  list-style-position: inside;
+}
+
+ol {
   text-align: center;
   list-style-position: inside;
 }
