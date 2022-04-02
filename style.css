@@ -7,12 +7,12 @@
   font-size: 20px;
 }
 
-#contact me {
+#contact-me {
   text-align: center;
   font-size: 20px;
 
 }
-#contact me a:link, a:visited{
+#contact-me a:link, a:visited{
   color: hotpink;
   text-decoration: none;
 }
