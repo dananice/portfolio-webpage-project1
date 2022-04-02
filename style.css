@@ -9,13 +9,18 @@
 
 #contact me {
   text-align: center;
-  fopnt-size: 20px;
+  font-size: 20px;
 
+}
+#contact me a:link, a:visited{
+  color: hotpink;
+  text-decoration: none;
 }
 
 #footer-nav a:hover {
   color: #1167a8;
   text-align: center;
+   
 }
 
 ul {
@@ -66,6 +71,7 @@ h2 {
 h3 a:hover {
   color: 1167a8;
   text-align: center;
+  list-style-position: inside;
 }
 
 /* styling for paragraphs and lists */
